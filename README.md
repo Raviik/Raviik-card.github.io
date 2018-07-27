@@ -1,2 +1,2 @@
-# Raviik-good-card-board
+# Raviik-card.github.io
 Мой свёрстанный сайт
